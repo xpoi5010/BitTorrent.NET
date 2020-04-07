@@ -1,0 +1,6 @@
+C:\Users\xpoi5\OneDrive\SourceCode\BitTorrent.Net\BitTorrent.Net\obj\Debug\BitTorrent.Net.csprojAssemblyReference.cache
+C:\Users\xpoi5\OneDrive\SourceCode\BitTorrent.Net\BitTorrent.Net\obj\Debug\BitTorrent.Net.csproj.CoreCompileInputs.cache
+C:\Users\xpoi5\OneDrive\SourceCode\BitTorrent.Net\BitTorrent.Net\bin\Debug\BitTorrent.Net.dll
+C:\Users\xpoi5\OneDrive\SourceCode\BitTorrent.Net\BitTorrent.Net\bin\Debug\BitTorrent.Net.pdb
+C:\Users\xpoi5\OneDrive\SourceCode\BitTorrent.Net\BitTorrent.Net\obj\Debug\BitTorrent.Net.dll
+C:\Users\xpoi5\OneDrive\SourceCode\BitTorrent.Net\BitTorrent.Net\obj\Debug\BitTorrent.Net.pdb

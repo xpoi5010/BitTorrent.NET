@@ -1,0 +1,13 @@
+C:\Users\xpoi5\OneDrive\SourceCode\BitTorrent.Net\Bittorrent.Demo\bin\Debug\Bittorrent.Demo.exe.config
+C:\Users\xpoi5\OneDrive\SourceCode\BitTorrent.Net\Bittorrent.Demo\bin\Debug\Bittorrent.Demo.exe
+C:\Users\xpoi5\OneDrive\SourceCode\BitTorrent.Net\Bittorrent.Demo\bin\Debug\Bittorrent.Demo.pdb
+C:\Users\xpoi5\OneDrive\SourceCode\BitTorrent.Net\Bittorrent.Demo\bin\Debug\BitTorrent.Net.dll
+C:\Users\xpoi5\OneDrive\SourceCode\BitTorrent.Net\Bittorrent.Demo\bin\Debug\BitTorrent.Net.pdb
+C:\Users\xpoi5\OneDrive\SourceCode\BitTorrent.Net\Bittorrent.Demo\obj\Debug\Bittorrent.Demo.csprojAssemblyReference.cache
+C:\Users\xpoi5\OneDrive\SourceCode\BitTorrent.Net\Bittorrent.Demo\obj\Debug\Bittorrent.Demo.Form1.resources
+C:\Users\xpoi5\OneDrive\SourceCode\BitTorrent.Net\Bittorrent.Demo\obj\Debug\Bittorrent.Demo.Properties.Resources.resources
+C:\Users\xpoi5\OneDrive\SourceCode\BitTorrent.Net\Bittorrent.Demo\obj\Debug\Bittorrent.Demo.csproj.GenerateResource.cache
+C:\Users\xpoi5\OneDrive\SourceCode\BitTorrent.Net\Bittorrent.Demo\obj\Debug\Bittorrent.Demo.csproj.CoreCompileInputs.cache
+C:\Users\xpoi5\OneDrive\SourceCode\BitTorrent.Net\Bittorrent.Demo\obj\Debug\Bittorrent.Demo.csproj.CopyComplete
+C:\Users\xpoi5\OneDrive\SourceCode\BitTorrent.Net\Bittorrent.Demo\obj\Debug\Bittorrent.Demo.exe
+C:\Users\xpoi5\OneDrive\SourceCode\BitTorrent.Net\Bittorrent.Demo\obj\Debug\Bittorrent.Demo.pdb
